@@ -1,4 +1,3 @@
-//![logo](https://github.com/akeelshafi/akeelshafi/blob/main/0_0ur42X5UCno7L6M1.jpg)
 <h1 align="center">Hi 👋, I'm AKEEL SHAFI</h1>
 <h3 align="center">A passionate Android developer</h3>
 
