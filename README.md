@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akeelshafi&label=Profile%20views&color=0e75b6&style=flat" alt="akeelshafi" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **JetPack Compose**
 
 - 💬 Ask me about **java, Kotlin and Android development**
 
