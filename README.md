@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm AKEEL SHAFI</h1>
 <h3 align="center">A passionate Android developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8e7b8fa6ba5ff2c93744149689a1c4eee6b663f3bea9463d109c76ba1e22b3a4/68747470733a2f2f692e6962622e636f2f4d6b6a673279382f3132322e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akeelshafi&label=Profile%20views&color=0e75b6&style=flat" alt="akeelshafi" /> </p>
-
 - 🌱 I’m currently learning **JetPack Compose**
 
 - 💬 Ask me about **java, Kotlin and Android development**
