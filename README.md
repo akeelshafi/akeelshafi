@@ -42,22 +42,16 @@ Passionate about building scalable, user-friendly Android applications and contr
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akeelshafi&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akeelshafi&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akeelshafi&layout=compact&hide_border=true&theme=default&cache_seconds=86400" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akeelshafi&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akeelshafi&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=akeelshafi&hide_border=true&theme=default" />
 </p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akeelshafi&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akeelshafi&theme=tokyonight&utcOffset=5" />
-</p>
-
 
 ---
 
