@@ -64,19 +64,6 @@ Passionate about building scalable, user-friendly Android applications and contr
 
 ---
 
-# 📌 Featured Projects
-
-### 🛒 ShopSmart
-Smart shopping list Android app using **Kotlin, MVVM, Room** with clean UI and offline storage.
-
-### 📍 neXtgen
-Nearby interaction app with **real-time location, chat, and video calling (WebRTC + Firebase)**.
-
-### 📄 InsightPapers
-Student-focused Android app to **access previous year exam papers quickly**.
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
