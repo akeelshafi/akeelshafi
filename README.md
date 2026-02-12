@@ -1,49 +1,48 @@
 <h1 align="center">Hi 👋, I'm Akeel Shafi</h1>
-<h3 align="center">Android Developer | Kotlin • Java • Jetpack Compose • MVVM</h3>
+
+<h3 align="center">
+Android Developer • Kotlin • Java • Jetpack Compose • MVVM • Firebase
+</h3>
 
 <p align="center">
-Building scalable Android apps, contributing to open source, and continuously learning modern mobile technologies.
+Passionate about building scalable, user-friendly Android applications and contributing to open source.
 </p>
 
----
-
-## 🌱 Currently Learning
-- Jetpack Compose  
-- Clean Architecture & Advanced MVVM  
-- Firebase & REST API Optimization  
-
-## 💬 Ask Me About
-- Android Development  
-- Kotlin & Java  
-- MVVM Architecture, Room, Retrofit, Firebase  
-
-## 📫 Reach Me At
-- **Email:** akeelshafi20@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/akeel-shafi  
-
----
-
-## 🌐 Connect With Me
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/akeel-shafi" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-Akeel%20Shafi-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:akeelshafi20@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</p>
+# 🚀 About Me
+
+- 🎓 B.Tech Computer Science Engineering student  
+- 📱 Android Developer focused on **modern, scalable architectures**  
+- 🌱 Currently learning **Jetpack Compose, Clean Architecture, Advanced MVVM**  
+- 🏆 Contributor at **GirlScript Summer of Code (GSSoC)**  
+- 🌍 Interested in **open source, real-world problem solving, and impactful apps**
 
 ---
 
-## 📊 GitHub Analytics
+# 🛠 Tech Stack
+
+### 📱 Mobile Development
+`Kotlin` • `Java` • `Android SDK` • `Jetpack Compose` • `XML UI`
+
+### 🧠 Architecture & Libraries
+`MVVM` • `Room` • `Retrofit` • `Firebase` • `Coroutines` • `Flow`
+
+### 🧰 Tools
+`Git` • `GitHub` • `Figma` • `Android Studio`
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=akeelshafi&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -56,27 +55,47 @@ Building scalable Android apps, contributing to open source, and continuously le
 
 ---
 
-## 🏆 Achievements
-- 🎖 Contributor at **GirlScript Summer of Code (GSSoC)**  
-- 📱 Android Developer focused on **scalable & user-friendly apps**  
-- 🌍 Open-source enthusiast & continuous learner  
+# 🏆 Achievements & Open Source
+
+- 🎖 **GirlScript Summer of Code Contributor**
+- 📱 Built multiple **Android apps using MVVM, Firebase, and REST APIs**
+- 🧩 Active learner in **modern Android development & system design**
+- 🌐 Contributing to **real-world open-source projects**
 
 ---
 
-## 📌 Featured Projects
-- 🛒 **ShopSmart** – Smart shopping list app with MVVM & Room  
-- 📍 **neXtgen** – Nearby interaction app with real-time location & chat  
-- 📄 **InsightPapers** – Past exam paper access app for students  
+# 📌 Featured Projects
+
+### 🛒 ShopSmart
+Smart shopping list Android app using **Kotlin, MVVM, Room** with clean UI and offline storage.
+
+### 📍 neXtgen
+Nearby interaction app with **real-time location, chat, and video calling (WebRTC + Firebase)**.
+
+### 📄 InsightPapers
+Student-focused Android app to **access previous year exam papers quickly**.
 
 ---
 
-## 👀 Profile Views
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=akeelshafi&label=Profile%20views&color=0e75b6&style=flat" />
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akeelshafi&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
+# 👀 Profile Views
+
 <p align="center">
-✨ “Code. Learn. Build. Repeat.” ✨
+<img src="https://komarev.com/ghpvc/?username=akeelshafi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+# 💡 Developer Mindset
+
+<p align="center">
+<strong>“Code. Learn. Build. Repeat.”</strong><br>
+<em>Turning ideas into real-world Android applications.</em>
 </p>
