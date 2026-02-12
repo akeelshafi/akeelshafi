@@ -72,14 +72,6 @@ Passionate about building scalable, user-friendly Android applications and contr
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=akeelshafi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
 # 💡 Developer Mindset
 
 <p align="center">
