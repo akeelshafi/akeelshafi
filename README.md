@@ -45,13 +45,14 @@ Passionate about building scalable, user-friendly Android applications and contr
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akeelshafi&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akeelshafi&layout=compact&hide_border=true&theme=default&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akeelshafi&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akeelshafi&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akeelshafi&hide_border=true&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=akeelshafi&theme=dark&hide_border=true" />
 </p>
+
 
 ---
 
